@@ -2,9 +2,9 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/lovro-musić) 
 
-# 🐉 Main PC build:
+# 🐉 Main PC build: 
 <a href="https://valid.x86.fr/wz7r15">
-  <img src="https://valid.x86.fr/wz7r15][img]https://valid.x86.fr/cache/banner/wz7r15-5.png" width="800" height="100" />
+  <img src="https://valid.x86.fr/cache/banner/wz7r15-5.png" width="600" height="200" /> 
 </a>
 
 # 💻 Tech Stack:
