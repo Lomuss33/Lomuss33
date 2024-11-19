@@ -4,7 +4,7 @@
 
 # 🐉 Main PC build:
 <a href="https://valid.x86.fr/wz7r15">
-  <img src="https://valid.x86.fr/cache/banner/wz7r15-2.png" width="800" height="100" />
+  <img src="https://valid.x86.fr/wz7r15][img]https://valid.x86.fr/cache/banner/wz7r15-5.png" width="800" height="100" />
 </a>
 
 # 💻 Tech Stack:
